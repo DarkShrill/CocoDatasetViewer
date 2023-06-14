@@ -5,6 +5,8 @@ Welcome to my COCO dataset test project! Here, I dedicate myself to exploring an
 
 ![](https://github.com/DarkShrill/CocoDatasetViewer/blob/master/stuff/coco_dataset_viewer.PNG)
 
+![](https://github.com/DarkShrill/CocoDatasetViewer/blob/master/stuff/coco_dataset_viewer_2.PNG)
+
 It is important to emphasise that this project has been developed purely for educational purposes and for fun. The main objective is to explore the COCO dataset and understand how the images are annotated with information on the different objects present.
 
 Through image processing and the use of 'labels', the project offers an interactive way to visualise and understand the structure of the COCO dataset. The squares provide an intuitive way to identify the objects identified within the images and to appreciate the variety of categories and contexts represented in the dataset.
